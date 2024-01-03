@@ -336,10 +336,10 @@
 "info":"maxthon | isHost"
 },
 {
-"name": "ID Station (365liveball)",
+"name": "testc (gu gunx)",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyawNXEXyjS1OHgcA1heuo8hBgTMq115UPUw&usqp=CAU",
-"url": "https://365liveball.com/channels-schedules?channel=trueidstation",
-"referer": "https://365liveball.com/",
+"url": "https://edge-s1c.onlineprostream.com:9092/v5/E_5IpsDjzNBYptZJAeUSsg/1704321979/7d02aab050ce5deebe430ee57a48b430/WuFYUhsyiFQjvqgbENiESQ/1704332659/live/lx-origin/dooball66-bein3_480/chunks.m3u8",
+"referer": "https://dooball66s.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
 },
 {
@@ -390,19 +390,3 @@ api_key=hmcb4rf66f (dooball66)
 
 
 ------- export ----
-
-{
-"name": "ID Station (gu gunx)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyawNXEXyjS1OHgcA1heuo8hBgTMq115UPUw&usqp=CAU",
-"url": "https://edge-s1c.onlineprostream.com:9092/v5/E_5IpsDjzNBYptZJAeUSsg/1704321979/7d02aab050ce5deebe430ee57a48b430/WuFYUhsyiFQjvqgbENiESQ/1704332659/live/lx-origin/dooball66-bein3_480/chunks.m3u8",
-"referer": "https://dooball66s.com",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
-"playInNatPlayer": "true"
-},
-{
-"name": "ID Station (doonung1234)",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyawNXEXyjS1OHgcA1heuo8hBgTMq115UPUw&usqp=CAU",
-"url": "https://www.doonung1234.com/match/view/32524/trueidstation",
-"referer": "https://www.doonung1234.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
-},
